@@ -13,7 +13,7 @@ Pedal cyclists,Female,12-15,16,23,16,20,21
 Pedal cyclists,Female,16-19,17,23,23,26,26
 Pedal cyclists,Female,20-24,49,49,52,49,59
 Pedal cyclists,Female,25-59,419,465,492,490,496
-Pedal cyclists,Female,60 and over,56,72,71,82,111
+Pedal cyclists,Female,60and over,56,72,71,82,111
 Motorcycle riders over 50cc,Male,under 16,16,25,35,24,26
 Motorcycle riders over 50cc,Male,16,28,34,26,29,35
 Motorcycle riders over 50cc,Male,17,174,151,143,134,111
